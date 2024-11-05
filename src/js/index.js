@@ -8,13 +8,6 @@ import "../styles/index.css";
 //import your own components
 import Home from "./component/home.jsx";
 
-
-
-
-
-
-
-
 const rootElement = document.getElementById("app");
 
 const root = ReactDOM.createRoot(rootElement);
