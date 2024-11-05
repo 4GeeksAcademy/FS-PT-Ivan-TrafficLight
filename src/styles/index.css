@@ -1,12 +1,11 @@
+.container__trafficLight{
+    border-radius: 4rem;
+    width: 4rem;
+    height: 4rem;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
 
-/* 
-
-    You can write your own styles here...
-    
-    
-    ...Or you can use the import command to include 
-    other sylesheets into your bunde as well, e.j:
-    
-    import 'relative/path/to/stylesheet.scss';
-
-*/
+.traffic{
+    background: black;
+}
