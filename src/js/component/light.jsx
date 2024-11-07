@@ -27,13 +27,7 @@ export const Light = () => {
                     onClick={() => setColor('green')}
                 >
                 </div>
-                {isPurpleOn && ( 
-                <div
-                   className={`container__trafficLight purple ${isPurpleOn ? 'purple' : 'black'}`}
-                   onClick={togglePurpleLight} 
-                >
-                </div>)}
-               
+                
             </div>
         </>
        
